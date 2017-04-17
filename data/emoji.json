@@ -1,0 +1,309 @@
+
+[
+  {
+    "id": 0,
+    "emoji": "😀",
+   "description": "grinning face",
+   "price": 25,
+   "inStock": true,
+   "children": []
+  }
+, {
+    "id": 1,
+    "emoji": "😃",
+    "description": "smiling face with open mouth",
+    "price": 20,
+    "inStock": true,
+    "children": []
+  }
+, {
+    "id": 2,
+    "emoji": "😄"
+  , "description": "smiling face with open mouth & smiling eyes",
+  "price": 35,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 3,
+    "emoji": "😁"
+  , "description": "grinning face with smiling eyes",
+  "price": 33,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 4,
+    "emoji": "😆"
+  , "description": "smiling face with open mouth & closed eyes",
+  "price": 22,
+  "inStock": true,
+  "children": []
+  }
+, {
+    "id": 5,
+    "emoji": "😅"
+  , "description": "smiling face with open mouth & cold sweat",
+  "price": 28,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 6,
+    "emoji": "😂"
+  , "description": "face with tears of joy",
+  "price": 30,
+  "inStock": true,
+  "children": []
+  }
+, {
+    "id": 7,
+    "emoji": "☺️"
+  , "description": "smiling face",
+  "price": 15,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 8,
+    "emoji": "😊"
+  , "description": "smiling face with smiling eyes",
+  "price": 75,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 9,
+    "emoji": "😇"
+  , "description": "smiling face with halo",
+  "price": 25,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 10,
+    "emoji": "🙂"
+  , "description": "slightly smiling face",
+  "price": 10,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 11,
+    "emoji": "🙃"
+  , "description": "upside-down face",
+  "price": 18,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 12,
+    "emoji": "😉"
+  , "description": "winking face",
+  "price": 3,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 13,
+    "emoji": "😌"
+  , "description": "relieved face",
+  "price": 8,
+  "inStock": true,
+  "children": []
+
+  }
+, {  "id": 14,
+    "emoji": "😍"
+  , "description": "smiling face with heart-eyes",
+  "price": 20,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 15,
+    "emoji": "😘"
+  , "description": "face blowing a kiss",
+  "price": 30,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 16,
+    "emoji": "😗"
+  , "description": "kissing face",
+  "price": 31,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 17,
+    "emoji": "😙"
+  , "description": "kissing face with smiling eyes",
+  "price": 25,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 18,
+    "emoji": "😚"
+  , "description": "kissing face with closed eyes",
+  "price": 10,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 19,
+    "emoji": "😋"
+  , "description": "face savouring delicious food",
+  "price": 32,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 20,
+    "emoji": "😜"
+  , "description": "face with stuck-out tongue & winking eye",
+  "price": 60,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 21,
+    "emoji": "😝"
+  , "description": "face with stuck-out tongue & closed eyes",
+  "price": 50,
+  "inStock": true,
+  "children": []
+
+  }
+, {  "id": 22,
+    "emoji": "😛"
+  , "description": "face with stuck-out tongue",
+  "price": 15,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 23,
+    "emoji": "🤑"
+  , "description": "money-mouth face",
+  "price": 1,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 24,
+    "emoji": "🤗"
+  , "description": "hugging face",
+  "price": 18,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 25,
+    "emoji": "🤓"
+  , "description": "nerd face",
+  "price": 33,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 26,
+    "emoji": "😎"
+  , "description": "smiling face with sunglasses",
+  "price": 7,
+  "inStock": true,
+  "children": []
+
+  }
+
+, {
+    "id": 27,
+    "emoji": "😏"
+  , "description": "smirking face",
+  "price": 27,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 28,
+    "emoji": "😒"
+  , "description": "unamused face",
+  "price": 20,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 29,
+    "emoji": "😞"
+  , "description": "disappointed face",
+  "price": 30,
+  "inStock": true,
+  "children": []
+
+  }
+, {
+    "id": 30,
+    "emoji": "😔"
+  , "description": "pensive face",
+  "price": 15,
+  "inStock": true,
+  "children": []
+  }
+, {
+    "id": 31,
+    "emoji": "😫"
+  , "description": "tired face",
+  "price": 20,
+  "inStock": true,
+  "children": []
+  }
+
+  , {
+      "id": 32,
+    "emoji": "🦄"
+  , "description": "unicorn face",
+  "price": 10,
+  "inStock": true,
+  "children": []
+  }
+  , {
+      "id": 33,
+    "emoji": "💩"
+  , "description": "pile of poo",
+  "price": 6,
+  "inStock": true,
+  "children": []
+
+  }, {
+    "id": 34,
+    "emoji": "☠️"
+  , "description": "skull and crossbones",
+    "price": 20,
+    "inStock": false,
+    "children": []
+  }
+]
